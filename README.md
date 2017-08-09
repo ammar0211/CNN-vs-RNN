@@ -5,5 +5,4 @@ A comparison project, Dropout effects on [Convolutional Neural Network (CNN)](ht
 [Dropout effects on Convolutional vs. Recurrent Neural Networks](http://www.doganaskan.com/blog/posts/cnnvsrnn.html)
 
 ## Source
-- [Udacity Deep Learning](https://github.com/udacity/deep-learning)  
-- [Mat Leonard](https://github.com/mcleonard)
+- [TFLearn Examples](https://github.com/tflearn/tflearn/tree/master/examples/nlp)  
